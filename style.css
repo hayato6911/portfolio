@@ -333,6 +333,7 @@ table.company_info_base1 th, table.company_info_base1 td {
   transform: scale(1.2);
   transition-duration: 0.5s;
 }
+
 /*ここからその他成果物のcss*/
 
 .detail-course-block-box {
